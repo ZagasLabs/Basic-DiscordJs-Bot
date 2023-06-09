@@ -1,1 +1,1 @@
-# ZagasLyra
+# Basic_DiscordJs-Bot
