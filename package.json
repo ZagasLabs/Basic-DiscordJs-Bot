@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.4"
+  },
+  "name": "zagaslyra",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "deploy-commands": "node deploy-command.js",
+    "deploy-commands:test-guild": "node test-deploy-command.js",
+    "setup": "npm install && node create-start-files.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZagasOpus/ZagasLyra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZagasOpus/ZagasLyra/issues"
+  },
+  "homepage": "https://github.com/ZagasOpus/ZagasLyra#readme"
+}
