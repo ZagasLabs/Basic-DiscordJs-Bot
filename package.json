@@ -3,7 +3,7 @@
     "discord.js": "^14.11.0",
     "dotenv": "^16.1.4"
   },
-  "name": "zagaslyra",
+  "name": "basic-discordjs-bot",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZagasOpus/ZagasLyra.git"
+    "url": "git+https://github.com/ZagasOpus/Basic-DiscordJs-Bot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZagasOpus/ZagasLyra/issues"
+    "url": "https://github.com/ZagasOpus/Basic-DiscordJs-Bot/issues"
   },
-  "homepage": "https://github.com/ZagasOpus/ZagasLyra#readme"
+  "homepage": "https://github.com/ZagasOpus/Basic-DiscordJs-Bot#readme"
 }
